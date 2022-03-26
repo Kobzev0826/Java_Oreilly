@@ -33,23 +33,37 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.EchoTestDrive">
-    <configuration name="DrumKitTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DrumKitTestDrive" />
+  <component name="RunManager" selected="Application.Triangle_p95">
+    <configuration name="DOG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DOG" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EchoTestDrive" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dog" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameLauncher" />
+    <configuration name="Dog_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dog_3" />
+      <module name="Java_O'reilly_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle_p95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle_p95" />
+      <module name="Java_O'reilly_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testArrays" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,9 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EchoTestDrive" />
-        <item itemvalue="Application.DrumKitTestDrive" />
-        <item itemvalue="Application.GameLauncher" />
+        <item itemvalue="Application.Triangle_p95" />
+        <item itemvalue="Application.testArrays" />
+        <item itemvalue="Application.Dog_3" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.DOG" />
       </list>
     </recent_temporary>
   </component>
@@ -84,5 +100,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_O_reilly_test$DOG.ic" NAME="DOG Coverage Results" MODIFIED="1648283494133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
