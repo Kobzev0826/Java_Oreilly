@@ -1,8 +1,17 @@
 public class DogTestDrive {
     public static void main(String[] args){
-        Dog d = new Dog(); // ÑĞ¾Ğ·Ğ´Ğ°Ğ½Ğ¸Ğµ Ğ¾Ğ±ÑŠĞµĞºÑ‚Ğ° ĞºĞ»Ğ°ÑÑĞ° Dog
-        d.size=40;
-        d.bark();
+        Dog one = new Dog(); // ñîçäàíèå îáúåêòà êëàññà Dog
+        one.size=70;
+
+        Dog two = new Dog();
+        two.size = 8;
+
+        Dog three = new Dog();
+        three.size = 35;
+
+        one.bark();
+        two.bark();
+        three.bark();
     }
 }
 
@@ -13,6 +22,12 @@ class Dog {
     String name;
 
     void bark(){
-        System.out.println("Ğ“Ğ°Ğ²! Ğ“Ğ°Ğ²!");
+        if (size > 60) {
+            System.out.println("Ãàâ! Ãàâ!");
+        }else if (size >14){
+            System.out.println("Âóô! Âóô!");
+        }else {
+            System.out.println("Òÿô! Òÿô!");
+        }
     }
 }
