@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ab6c9b6-a035-445f-b98f-ca6d78524091" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Mix4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ab6c9b6-a035-445f-b98f-ca6d78524091" name="Changes" comment="#5.2&#10;add Mix4 page 120">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/BeerSong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/BeerSong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DogTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DogTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Dog_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Dog_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DrumKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DrumKit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DrumKitTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/DrumKitTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Echo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Echo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/EchoTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/EchoTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/ElectricGuitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/ElectricGuitar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GameLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GameLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GoodDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GoodDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GuessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/GuessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/MovieTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/MovieTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/PhraseQMatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/PhraseQMatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Shuffle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Shuffle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Triangle_p95.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/Triangle_p95.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_O'reilly_test/testArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_O'reilly_test/testArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Puzzle4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Puzzle4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Mix4">
+  <component name="RunManager" selected="Application.Puzzle4">
     <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
       <module name="Java_O'reilly_test" />
@@ -46,15 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dog_3" />
+    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mix4" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mix4" />
+    <configuration name="Puzzle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Puzzle4" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Puzzle4" />
         <item itemvalue="Application.Mix4" />
         <item itemvalue="Application.DogTestDrive" />
         <item itemvalue="Application.Triangle_p95" />
         <item itemvalue="Application.testArrays" />
-        <item itemvalue="Application.Dog_3" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1648272227847</updated>
     </task>
+    <task id="LOCAL-00001" summary="#5.2&#10;add Mix4 page 120">
+      <created>1648457717842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648457717842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,21 +132,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Mix4.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Mix4.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#5.2&#10;add Mix4 page 120" />
+    <option name="LAST_COMMIT_MESSAGE" value="#5.2&#10;add Mix4 page 120" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_O_reilly_test$DOG.ic" NAME="DOG Coverage Results" MODIFIED="1648283494133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
