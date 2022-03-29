@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_p95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Triangle_p95" />
+    <configuration name="multifor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multifor" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,10 +73,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SimpleDotComGame" />
+        <item itemvalue="Application.multifor" />
         <item itemvalue="Application.Puzzle4" />
         <item itemvalue="Application.Mix4" />
         <item itemvalue="Application.DogTestDrive" />
-        <item itemvalue="Application.Triangle_p95" />
       </list>
     </recent_temporary>
   </component>

@@ -10,15 +10,15 @@ public class SimpleDotComGame {
         SimpleDotCom DotCom = new SimpleDotCom();
 
         int rand = (int) (Math.random() * 5); // генерация случайного числа
-        int [] locations = {rand, rand + 1, rand +2 };
+        Arra locations = {rand, rand + 1, rand +2 };
 
-        DotCom.setLocationCells(locations); // передача местоположения
+        //DotCom.setLocationCells(locations); // передача местоположения
 
         boolean isAlive = true;
 
         while (isAlive){
             System.out.print("Введите число");
-            String guess = scanner.nextLine();
+            int guess = scanner.nextInt();
 
             String result = DotCom.checkYourSelf(guess);
             NumOfGuesses++;
