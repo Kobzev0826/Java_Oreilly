@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SimpleDotComGame {
@@ -10,15 +11,17 @@ public class SimpleDotComGame {
         SimpleDotCom DotCom = new SimpleDotCom();
 
         int rand = (int) (Math.random() * 5); // генерация случайного числа
-        Arra locations = {rand, rand + 1, rand +2 };
+        ArrayList<String> locations = new ArrayList<String>();
+        for ( int i=0;i<3;i++){locations.add(String.valueOf(rand+i));}
+        //int [] locations = {rand, rand + 1, rand +2 };
 
-        //DotCom.setLocationCells(locations); // передача местоположения
+        DotCom.setLocationCells(locations); // передача местоположения
 
         boolean isAlive = true;
 
         while (isAlive){
             System.out.print("Введите число");
-            int guess = scanner.nextInt();
+            String guess = scanner.nextLine();
 
             String result = DotCom.checkYourSelf(guess);
             NumOfGuesses++;

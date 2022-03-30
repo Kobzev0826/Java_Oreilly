@@ -9,11 +9,11 @@ public class SimpleDotCom {
         locationCells = locs;
     }
 
-    public String checkYourSelf(int userInput){
+    public String checkYourSelf(String userInput){
         //проверка содержится ли указанная пользователем ячейка внутри ArrayList, запрашивая индекс
         int index = locationCells.indexOf(userInput);
         String result = "Мимо";
-
+        System.out.println(index);
             if (index >= 0){
                 locationCells.remove(index);
 
@@ -25,7 +25,7 @@ public class SimpleDotCom {
             }
 
 
-        //System.out.println(result);
+        System.out.println(result);
         return result;
     }
 
