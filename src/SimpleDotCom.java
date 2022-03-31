@@ -13,7 +13,7 @@ public class SimpleDotCom {
         //проверка содержится ли указанная пользователем ячейка внутри ArrayList, запрашивая индекс
         int index = locationCells.indexOf(userInput);
         String result = "Мимо";
-        System.out.println(index);
+        //System.out.println(index);
             if (index >= 0){
                 locationCells.remove(index);
 
