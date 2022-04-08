@@ -34,7 +34,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListMagnet">
+  <component name="RunManager" selected="Application.Mixed2">
     <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListMagnet" />
       <module name="Java_O'reilly_test" />
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Puzzle4" />
+    <configuration name="Mixed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mixed2" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mixed2" />
         <item itemvalue="Application.ArrayListMagnet" />
         <item itemvalue="Application.DotComBust" />
         <item itemvalue="Application.SimpleDotComGame" />
         <item itemvalue="Application.multifor" />
-        <item itemvalue="Application.Puzzle4" />
       </list>
     </recent_temporary>
   </component>
