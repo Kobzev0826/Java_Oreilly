@@ -34,37 +34,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Mixed2">
-    <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListMagnet" />
+  <component name="RunManager" selected="Application.TestBoats">
+    <configuration name="TestBoats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBoats" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DotComBust" />
-      <module name="Java_O'reilly_test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mixed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mixed2" />
-      <module name="Java_O'reilly_test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleDotComGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleDotComGame" />
-      <module name="Java_O'reilly_test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="multifor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multifor" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
       <module name="Java_O'reilly_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mixed2" />
-        <item itemvalue="Application.ArrayListMagnet" />
-        <item itemvalue="Application.DotComBust" />
-        <item itemvalue="Application.SimpleDotComGame" />
-        <item itemvalue="Application.multifor" />
+        <item itemvalue="Application.TestBoats" />
       </list>
     </recent_temporary>
   </component>
