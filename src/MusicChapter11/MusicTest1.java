@@ -21,12 +21,26 @@ public class MusicTest1 {
 
             ShortMessage b = new ShortMessage();
             a.setMessage(128,1,44,100);
-            MidiEvent noteOff = new MidiEvent(b,16);
+            MidiEvent noteOff = new MidiEvent(b,20);
             track.add(noteOff);
+
+            ShortMessage c = new ShortMessage();
+            a.setMessage(144,1,20,100);
+            MidiEvent noteOn2 = new MidiEvent(c,40);
+            track.add(noteOn2);
+
+            ShortMessage d = new ShortMessage();
+            a.setMessage(128,1,20,100);
+            MidiEvent noteOff2 = new MidiEvent(d,66);
+            track.add(noteOff2);
+
+
             //-----------------------------------------------------------------
             sequencer.setSequence(seq); // передача последовательности синтезатору
 
             sequencer.start();
+
+            System.out.println("END!");
 
         }catch(MidiUnavailableException e){
             System.out.println(e.getMessage());
