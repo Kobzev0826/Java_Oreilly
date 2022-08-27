@@ -1,12 +1,26 @@
 package Chapter12;
 
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-public class SimpleGui {
+public class SimpleGui implements ActionListener {
+
+    private JButton button;
 
     public static void main(String[] args) {
+        SimpleGui simpleGui = new SimpleGui();
+        simpleGui.go();
+    }
+
+    public void go(){
         JFrame frame = new JFrame();
-        JButton button = new JButton("clickme");
+        this.button = new JButton("clickme");
+
+        // добавление к списку слушателей кнопки
+        // Передаваемый аргумент объект класса, реализующий ActionListener
+        button.addActionListener(this);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);// завершение работы окна при закрытии программы
 
@@ -17,4 +31,9 @@ public class SimpleGui {
         frame.setVisible(true);
     }
 
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        
+        button.setText("i've been clicked!");
+    }
 }
